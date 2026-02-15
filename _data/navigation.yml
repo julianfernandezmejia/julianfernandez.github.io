@@ -1,5 +1,5 @@
-# Navigation matching https://sites.google.com/view/julianfernandezmejia/
-# Tabs: Home, Vitae, Research, Teaching, Useful Links
+# Header links (same structure as Academic Pages template)
+# Tabs match https://sites.google.com/view/julianfernandezmejia/
 
 main:
   - title: "Home"

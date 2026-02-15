@@ -1,7 +1,6 @@
 ---
-layout: single
-permalink: /useful-links/
 title: "Useful Links"
+permalink: /useful-links/
 author_profile: true
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: single
 permalink: /
 title: "Julian Fernandez-Mejia"
 author_profile: true
@@ -12,7 +11,7 @@ redirect_from:
 
 I am an Assistant Professor of Finance at Universidad Javeriana - Bogotá. I received my Ph.D. in Economics from Copenhagen Business School (CBS) in 2024. My research interests combine International Finance, Applied Macroeconomics, and Financial Economics. My most recent interests are Carry Trade, Capital Flows, and the use of Foreign Exchange Reserves.
 
-My CV can be found [here](https://raw.githubusercontent.com/julianfernandezmejia/Archivos/b5d1435a8446b0dd2aa722910d8c4d6579c1d0bf/CV%20-%20Webpage.pdf)
+My CV can be found [here](/cv/).
 
 ## Contact
 

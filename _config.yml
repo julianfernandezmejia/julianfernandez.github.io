@@ -247,10 +247,9 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
+  # _pages (path-based so all pages in _pages get sidebar and single layout)
   - scope:
-      path: ""
-      type: pages
+      path: "_pages"
     values:
       layout: single
       author_profile: true

@@ -8,6 +8,9 @@ author_profile: true
 ## General Econometrics
 
 * [Econometric Society Links](http://www.feweb.vu.nl/econometriclinks/)
+* [Econometrics Tutorial](http://econometricstutorial.com/)
+* [EViews Blog](http://blog.eviews.com/)
+* [Stata Blog](http://blog.stata.com/)
 
 ## R
 
@@ -17,6 +20,7 @@ author_profile: true
 * [The Comprehensive R Archive Network (CRAN)](https://cran.r-project.org/)
 * [An Introduction to R](https://cran.r-project.org/doc/manuals/r-devel/R-intro.pdf)
 * [CRAN Task Views](https://cran.r-project.org/web/views/)
+* [R for Economists](http://www.mayin.org/ajayshah/KB/R/R_for_economists.html)
 
 * [Grant V. Farnsworth "Econometrics in R"](https://cran.r-project.org/doc/contrib/Farnsworth-EconometricsInR.pdf)
 * [Grant McDermott "Data science for economists"](https://github.com/uo-ec607/lectures)
@@ -27,10 +31,19 @@ author_profile: true
 
 ## MATLAB
 
-
+* [MATLAB Cheatsheet](http://www.econ.ku.dk/pajhede/Cheatsheet.pdf)
 * [John C. Frain "MATLAB for Economics and Econometrics"](http://www.tcd.ie/Economics/TEP/2014/TEP0414.pdf)
 * [Econometrics Toolbox](https://www.mathworks.com/products/econometrics.html)
 
 ## STATA
 
 * [STATA Economics Page](http://www.stata.com/disciplines/economics/)
+* [UCLA Stata Resources](https://stats.idre.ucla.edu/stata/)
+* [Stata Training Resources](http://geocenter.github.io/StataTraining/portfolio/01_resource/)
+
+## Academic Coding and Presentation Resources
+
+* [How to Make Effective Presentations](http://public.econ.duke.edu/~brossi/howtomakeaneffectivepresentation.pdf)
+* [Presentation Tips (Stanford)](https://web.stanford.edu/~jacksonm/present.pdf)
+* [Beamer User Guide](http://tug.ctan.org/macros/latex/contrib/beamer/doc/beameruserguide.pdf)
+* [TikZ and PGF Manual](https://www.bu.edu/math/files/2013/08/tikzpgfmanual.pdf)

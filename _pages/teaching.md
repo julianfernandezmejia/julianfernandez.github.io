@@ -7,7 +7,7 @@ author_profile: true
 
 Most of the content will be available on the university's Campus Virtual webpage, as the course material is the university's property. Syllabi and anonymized grades are posted here for information and statistical purposes.
 
-## Current Courses (2025)
+## Current Courses (2026)
 
 ### Pontificia Universidad Javeriana
 
@@ -19,8 +19,10 @@ Most of the content will be available on the university's Campus Virtual webpage
 
 ### Pontificia Universidad Javeriana
 
-* Financial Theory (Fall 2024, Spring 2024)
-* International Finance (Fall 2024, Spring 2024)
+* [Financial Theory (Fall 2024)](https://sites.google.com/view/julianfernandezmejia/teaching/fin-th-2024-i)
+* [Financial Theory (Spring 2024)](https://sites.google.com/view/julianfernandezmejia/teaching/fin-th-2024-i)
+* [International Finance (Fall 2024)](https://sites.google.com/view/julianfernandezmejia/teaching/int-fin-2024-i)
+* [International Finance (Spring 2024)](https://sites.google.com/view/julianfernandezmejia/teaching/int-fin-2024-i)
 * Investments (Fall 2023)
 * Corporate Finance (Fall 2023)
 

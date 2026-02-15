@@ -18,7 +18,7 @@ Detailed weekly schedule and grading policy are shared on Campus Virtual.
 
 * Krugman, Obstfeld, and Melitz (2022), Chapter 1.
 * Eun, Resnick, and Chuluun (2024), Chapter 1.
-* Melvin and Norrbin (2022), Chapters 1-2.
+* Melvin and Norbin (2022), Chapters 1-2.
 
 ### Exchange Rates and International Markets
 
@@ -45,7 +45,7 @@ Detailed weekly schedule and grading policy are shared on Campus Virtual.
 * Krugman, Obstfeld, and Melitz (2022), Chapter 5.
 * Eun, Resnick, and Chuluun (2024), Chapter 6.
 * Bekaert and Hodrick (2017), Chapters 6-9.
-* Melvin and Norrbin (2022), Chapters 6-8.
+* Melvin and Norbin (2022), Chapters 6-8.
 * Engel (2014), [Exchange Rates and Interest Parity](https://doi.org/10.1016/B978-0-444-54314-1.00008-2), Handbook of International Economics, Vol. 4.
 * Du and Schreger (2022), [CIP deviations, the dollar, and frictions in international capital markets](https://doi.org/10.1016/bs.hesint.2022.03.001), Handbook of International Economics, Vol. 6.
 * Hyndman and Athanasopoulos (2021), [Forecasting: Principles and Practice](https://otexts.com/fpp3/index.html), Chapters 3, 5, and 9.
@@ -69,7 +69,7 @@ Detailed weekly schedule and grading policy are shared on Campus Virtual.
 
 * Eun, Resnick, and Chuluun (2024), Chapters 7-10.
 * Bekaert and Hodrick (2017), Chapters 20-21.
-* Melvin and Norrbin (2022), Chapter 4.
+* Melvin and Norbin (2022), Chapter 4.
 * Ranaldo (2023), [Foreign exchange swaps and cross-currency swaps](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4138134), in Research Handbook of Financial Markets.
 
 ### Macroeconomic Policy, Coordination, and Macroprudential Policies
@@ -85,4 +85,4 @@ Detailed weekly schedule and grading policy are shared on Campus Virtual.
 
 * Eun, Resnick, and Chuluun (2024), Chapter 16.
 * Bekaert and Hodrick (2017), Chapter 14.
-* Melvin and Norrbin (2022), Chapter 11.
+* Melvin and Norbin (2022), Chapter 11.

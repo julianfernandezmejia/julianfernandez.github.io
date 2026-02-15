@@ -5,14 +5,14 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Most of the content will be available on the university's Campus Virtual webpage, as the course material is the university's property. Syllabi and anonymized grades are posted here for information and statistical purposes.
+In 2026, I teach Financial Theory and International Finance at Pontificia Universidad Javeriana. Most course material is available on the university's Campus Virtual platform, since the material is university property. I publish syllabi and anonymized grades here for information and statistical purposes.
 
 ## Current Courses (2026)
 
 ### Pontificia Universidad Javeriana
 
-* [Financial Theory 2025](/teaching/financial-theory-2025/)
-* [International Finance 2025](/teaching/international-finance-2025/)
+* [Financial Theory](/teaching/financial-theory-2025/)
+* [International Finance](/teaching/international-finance-2025/)
 * [Office Hours](/teaching/office-hours/)
 
 ## Previous Courses

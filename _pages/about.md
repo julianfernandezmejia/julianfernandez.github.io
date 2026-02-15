@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /
 title: "Julian Fernandez-Mejia"
 author_profile: true

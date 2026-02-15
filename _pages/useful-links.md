@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /useful-links/
 title: "Useful Links"
 author_profile: true

@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+site_theme               : "light"
 title                    : "Julián Fernández Mejía"
 title_separator          : "-"
 name                     : &name "Julián Fernández Mejía"
@@ -19,7 +19,7 @@ repository               : "julianfernandezmejia/julianfernandezmejia.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
-  avatar           : "profile.png"
+  avatar           : "BM0466_ECON_Julian_Fernandez-0458-websize.jpg"
   name             : "Julián Fernández Mejía"
   pronouns         :
   bio              : "Assistant Professor of Finance at Universidad Javeriana - Bogotá. Ph.D. in Economics from Copenhagen Business School (CBS) 2024."
